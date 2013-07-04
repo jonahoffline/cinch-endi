@@ -2,7 +2,7 @@ Cinch::Endi [![Gem Version](https://badge.fury.io/rb/cinch-endi.png)](http://bad
 =================
 
 Endi is a Cinch plugin for getting the latest news from endi.com
-Endi / El Nuevo Dia is a Puerto Rican newspaper.
+  Endi / El Nuevo Dia is a Puerto Rican newspaper.
 
 Installation
 ---------------------
