@@ -1,8 +1,8 @@
 Cinch::Endi [![Gem Version](https://badge.fury.io/rb/cinch-endi.png)](http://badge.fury.io/rb/cinch-endi) [![Dependency Status](https://gemnasium.com/jonahoffline/cinch-endi.png)](https://gemnasium.com/jonahoffline/cinch-endi) [![Code Climate](https://codeclimate.com/github/jonahoffline/cinch-endi.png)](https://codeclimate.com/github/jonahoffline/cinch-endi)
 =================
 
-Endi is a Cinch plugin for getting the latest news from endi.com
-  Endi / El Nuevo Dia is a Puerto Rican newspaper.
+Endi is a Cinch plugin for getting the latest news from endi.com .
+El Nuevo Dia is a Puerto Rican newspaper.
 
 Installation
 ---------------------
